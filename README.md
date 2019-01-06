@@ -12,9 +12,9 @@ A JavaScript Library to work with cookies
   cookie.setItem(name, value, expire)
 </script>
 ```
-**name** = name of the cookie
-**value** = value of cookie
-**expire** = time to expire it is optional default expire time is *1 year*
+**name** = name of the cookie __
+**value** = value of cookie __
+**expire** = time to expire it is optional default expire time is *****1 year******
 
 ## ***To get cookie***
 ```
