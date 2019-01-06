@@ -23,3 +23,4 @@ A JavaScript Library to work with cookies
 </script>
 ```
 This will return the value of the name cookie you have set before
+<img src="https://camo.githubusercontent.com/8ac8115fc1d48176f64e8b1b8cbc113170726b2f/687474703a2f2f7777772e66696c6c6d75727261792e636f6d2f3130302f313030">
