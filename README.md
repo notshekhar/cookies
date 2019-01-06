@@ -23,4 +23,3 @@ A JavaScript Library to work with cookies
 </script>
 ```
 This will return the value of the name cookie you have set before
-<h1>hello</h1>
