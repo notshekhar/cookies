@@ -19,7 +19,8 @@ A JavaScript Library to work with cookies
 ## ***To get cookie***
 ```
 <script>
-  cookie.getItem(name)
+  let value = cookie.getItem(name)
+  console.log(value)
 </script>
 ```
-This will return the value of the name cookie you have set before 
+This will return the value of the name cookie you have set before
