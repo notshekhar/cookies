@@ -1,7 +1,7 @@
 # cookies
 A JavaScript Library to work with cookies
 
-## ***First include cookie in your html document head*** section
+## ***First include cookie in your html document head section*** 
 ```
 <script src="/cookies/cookie.js" charset="utf-8"></script>
 
@@ -14,7 +14,7 @@ A JavaScript Library to work with cookies
 ```
 - **name** = name of the cookie
 - **value** = value of cookie
-- **expire** = time to expire it is optional default expire time is *****1 year******
+- **expire** = time to expire it is optional default expire time is **1 year**
 
 ## ***To get cookie***
 ```
