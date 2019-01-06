@@ -1,8 +1,8 @@
 // toadttech the cookie object with window and export to node modelue
 (function(e,i){
-  
+
   if(typeof define === 'function' && define.amd){
-    define([], i())
+    define([], i)
   }else if(typeof exports === 'object'){
     module.exports = i()
   }else{
