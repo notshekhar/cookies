@@ -3,7 +3,7 @@ A JavaScript Library to work with cookies
 
 ## ***First include cookie in your html document head section***
 ```
-<script src="/cookies/cookie.js" charset="utf-8"></script>
+<script src="https://notshekhar.github.io/cookies/cookie.js" charset="utf-8"></script>
 ```
 ## ***To store cookie***
 ```
