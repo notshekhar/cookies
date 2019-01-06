@@ -1,10 +1,9 @@
 # cookies
 A JavaScript Library to work with cookies
 
-## ***First include cookie in your html document head section*** 
+## ***First include cookie in your html document head section***
 ```
 <script src="/cookies/cookie.js" charset="utf-8"></script>
-
 ```
 ## ***To store cookie***
 ```
