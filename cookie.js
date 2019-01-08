@@ -26,9 +26,13 @@
       }
     }
     return "";
+    this.add = ()=>{
+      console.log(this)
+    }
   }
   cookie.setItem = t
   function t(n, i, r){
+
     let d = new Date();
     if(r){
       d.setTime(d.getTime() + r);
